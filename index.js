@@ -1,1 +1,1 @@
-module.exports = ['last 2 versions', '> 1%', 'not dead'];
+module.exports = ['defaults', 'not ie 11'];
